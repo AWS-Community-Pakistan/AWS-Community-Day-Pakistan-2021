@@ -44,3 +44,7 @@ Your site URL to be authorized: __file_url__//C:/Users/Dell/OneDrive%20-%20Highe
 [0714/005808.316:INFO:CONSOLE(73)] "Google Maps JavaScript API error: RefererNotAllowedMapError
 https://developers.google.com/maps/documentation/javascript/error-messages#referer-not-allowed-map-error
 Your site URL to be authorized: __file_url__//C:/Users/Dell/OneDrive%20-%20Higher%20Education%20Commission/Documents/GitHub/AWS-Community-Day-Pakistan-2021/index.html", source: https://maps.googleapis.com/maps/api/js?key=AIzaSyCSK4vqrOG3caqUr6dxAVhA7MrdMmq63q0&callback=initMap (73)
+[0714/010426.096:INFO:CONSOLE(1)] "Uncaught (in promise) f: OneSignal: This web push config can only be used on https://communityday.awsugblr.in. Your current origin is file://.", source: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151506 (1)
+[0714/010428.892:INFO:CONSOLE(73)] "Google Maps JavaScript API error: RefererNotAllowedMapError
+https://developers.google.com/maps/documentation/javascript/error-messages#referer-not-allowed-map-error
+Your site URL to be authorized: __file_url__//C:/Users/Dell/OneDrive%20-%20Higher%20Education%20Commission/Documents/GitHub/AWS-Community-Day-Pakistan-2021/index.html", source: https://maps.googleapis.com/maps/api/js?key=AIzaSyCSK4vqrOG3caqUr6dxAVhA7MrdMmq63q0&callback=initMap (73)
